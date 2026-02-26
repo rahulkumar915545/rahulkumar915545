@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @rahulkumar915545
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I'm Rahul Kumar
 
-<!---
-rahulkumar915545/rahulkumar915545 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Full Stack Developer | Laravel | React | React Native  
+
+👀 I’m passionate about building scalable web applications and mobile apps  
+🌱 Currently exploring API integrations, JWT authentication & deployment strategies  
+💞️ Open to collaborating on SaaS platforms, Admin dashboards & startup projects  
+📫 Reach me at: rahulkumar915545@gmail.com  
+
+⚡ Fun fact: I love turning complex logic into structured and clean systems.
